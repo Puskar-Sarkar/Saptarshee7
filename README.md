@@ -1,3 +1,4 @@
+![logo](https://github.com/Saptarshee7/Saptarshee7/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Puskar Sarkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
