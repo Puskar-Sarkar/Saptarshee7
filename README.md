@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saptarshee7&label=Profile%20views&color=0e75b6&style=flat" alt="saptarshee7" /> </p>
 
-- 📫 How to reach me **itspuskarsarkar@gmail.com**
+- 📫 How to reach me **itzpuskarsarkar02@gmail.com**
 
 - ⚡ Fun fact **I am funny😅**
 
